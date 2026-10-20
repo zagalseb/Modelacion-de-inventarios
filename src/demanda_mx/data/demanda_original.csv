@@ -1,0 +1,1201 @@
+Cantidad demandada,Fecha del pedido,Ubicación
+41,2026-01-01,Guadalajara
+33,2026-01-01,Monterrey
+54,2026-01-01,Monterrey
+45,2026-01-02,Ciudad de México
+33,2026-01-02,Ciudad de México
+38,2026-01-02,Ciudad de México
+36,2026-01-02,Guadalajara
+42,2026-01-02,Monterrey
+26,2026-01-02,Monterrey
+38,2026-01-02,Monterrey
+53,2026-01-03,Ciudad de México
+58,2026-01-03,Ciudad de México
+46,2026-01-03,Guadalajara
+28,2026-01-03,Monterrey
+42,2026-01-04,Guadalajara
+41,2026-01-04,Monterrey
+39,2026-01-05,Ciudad de México
+31,2026-01-05,Monterrey
+39,2026-01-06,Guadalajara
+35,2026-01-06,Guadalajara
+48,2026-01-07,Ciudad de México
+16,2026-01-07,Guadalajara
+30,2026-01-07,Guadalajara
+1,2026-01-07,Guadalajara
+35,2026-01-07,Monterrey
+32,2026-01-07,Monterrey
+35,2026-01-07,Monterrey
+43,2026-01-07,Monterrey
+51,2026-01-08,Ciudad de México
+36,2026-01-08,Guadalajara
+15,2026-01-08,Monterrey
+52,2026-01-09,Ciudad de México
+32,2026-01-09,Ciudad de México
+31,2026-01-09,Guadalajara
+39,2026-01-09,Guadalajara
+27,2026-01-09,Monterrey
+49,2026-01-10,Ciudad de México
+41,2026-01-10,Guadalajara
+32,2026-01-10,Guadalajara
+18,2026-01-10,Monterrey
+44,2026-01-11,Ciudad de México
+41,2026-01-11,Ciudad de México
+19,2026-01-11,Guadalajara
+36,2026-01-12,Ciudad de México
+29,2026-01-12,Guadalajara
+14,2026-01-12,Guadalajara
+9,2026-01-12,Guadalajara
+48,2026-01-12,Monterrey
+35,2026-01-12,Monterrey
+41,2026-01-12,Monterrey
+27,2026-01-13,Guadalajara
+35,2026-01-14,Ciudad de México
+35,2026-01-14,Guadalajara
+34,2026-01-14,Monterrey
+25,2026-01-15,Guadalajara
+22,2026-01-15,Monterrey
+35,2026-01-15,Monterrey
+34,2026-01-16,Ciudad de México
+43,2026-01-16,Ciudad de México
+38,2026-01-16,Guadalajara
+52,2026-01-17,Ciudad de México
+38,2026-01-17,Monterrey
+56,2026-01-18,Ciudad de México
+60,2026-01-18,Ciudad de México
+30,2026-01-18,Guadalajara
+23,2026-01-18,Monterrey
+17,2026-01-19,Guadalajara
+25,2026-01-19,Guadalajara
+43,2026-01-19,Monterrey
+30,2026-01-19,Monterrey
+34,2026-01-19,Monterrey
+39,2026-01-20,Ciudad de México
+58,2026-01-20,Ciudad de México
+50,2026-01-20,Ciudad de México
+45,2026-01-21,Ciudad de México
+55,2026-01-21,Ciudad de México
+11,2026-01-21,Monterrey
+22,2026-01-22,Ciudad de México
+30,2026-01-22,Ciudad de México
+27,2026-01-22,Ciudad de México
+16,2026-01-22,Guadalajara
+18,2026-01-22,Guadalajara
+34,2026-01-23,Ciudad de México
+29,2026-01-23,Ciudad de México
+24,2026-01-23,Guadalajara
+24,2026-01-23,Monterrey
+55,2026-01-23,Monterrey
+28,2026-01-24,Guadalajara
+23,2026-01-24,Monterrey
+44,2026-01-25,Ciudad de México
+43,2026-01-25,Ciudad de México
+33,2026-01-25,Guadalajara
+49,2026-01-25,Monterrey
+47,2026-01-25,Monterrey
+43,2026-01-26,Ciudad de México
+47,2026-01-26,Ciudad de México
+22,2026-01-26,Ciudad de México
+15,2026-01-26,Guadalajara
+42,2026-01-26,Guadalajara
+34,2026-01-26,Monterrey
+49,2026-01-27,Ciudad de México
+33,2026-01-27,Guadalajara
+28,2026-01-27,Guadalajara
+14,2026-01-27,Guadalajara
+42,2026-01-27,Monterrey
+36,2026-01-27,Monterrey
+26,2026-01-27,Monterrey
+40,2026-01-28,Ciudad de México
+28,2026-01-28,Monterrey
+25,2026-01-29,Guadalajara
+40,2026-01-29,Monterrey
+36,2026-01-30,Ciudad de México
+40,2026-01-30,Ciudad de México
+39,2026-01-30,Ciudad de México
+43,2026-01-30,Ciudad de México
+45,2026-01-30,Guadalajara
+33,2026-01-30,Guadalajara
+41,2026-01-31,Ciudad de México
+32,2026-01-31,Ciudad de México
+36,2026-01-31,Guadalajara
+30,2026-01-31,Guadalajara
+36,2026-01-31,Guadalajara
+29,2026-01-31,Guadalajara
+50,2026-02-01,Ciudad de México
+37,2026-02-01,Ciudad de México
+32,2026-02-01,Guadalajara
+43,2026-02-02,Ciudad de México
+43,2026-02-02,Ciudad de México
+40,2026-02-02,Ciudad de México
+38,2026-02-02,Guadalajara
+49,2026-02-02,Guadalajara
+42,2026-02-02,Guadalajara
+54,2026-02-03,Ciudad de México
+37,2026-02-03,Guadalajara
+27,2026-02-04,Monterrey
+37,2026-02-04,Monterrey
+27,2026-02-04,Monterrey
+51,2026-02-05,Ciudad de México
+48,2026-02-05,Ciudad de México
+27,2026-02-05,Ciudad de México
+64,2026-02-05,Ciudad de México
+25,2026-02-05,Guadalajara
+17,2026-02-05,Guadalajara
+24,2026-02-05,Guadalajara
+31,2026-02-05,Monterrey
+15,2026-02-05,Monterrey
+57,2026-02-06,Ciudad de México
+19,2026-02-06,Guadalajara
+28,2026-02-06,Monterrey
+55,2026-02-07,Ciudad de México
+9,2026-02-07,Ciudad de México
+61,2026-02-07,Ciudad de México
+43,2026-02-07,Guadalajara
+23,2026-02-07,Guadalajara
+50,2026-02-07,Monterrey
+29,2026-02-07,Monterrey
+39,2026-02-08,Ciudad de México
+26,2026-02-08,Monterrey
+56,2026-02-09,Ciudad de México
+37,2026-02-09,Guadalajara
+29,2026-02-09,Guadalajara
+20,2026-02-09,Guadalajara
+22,2026-02-09,Guadalajara
+28,2026-02-10,Guadalajara
+42,2026-02-10,Guadalajara
+4,2026-02-10,Guadalajara
+48,2026-02-10,Monterrey
+61,2026-02-10,Monterrey
+30,2026-02-11,Monterrey
+45,2026-02-11,Monterrey
+31,2026-02-12,Guadalajara
+50,2026-02-12,Monterrey
+45,2026-02-12,Monterrey
+26,2026-02-13,Ciudad de México
+39,2026-02-13,Monterrey
+46,2026-02-13,Monterrey
+39,2026-02-13,Monterrey
+43,2026-02-13,Monterrey
+45,2026-02-14,Ciudad de México
+37,2026-02-14,Monterrey
+44,2026-02-14,Monterrey
+37,2026-02-15,Ciudad de México
+43,2026-02-15,Ciudad de México
+24,2026-02-15,Guadalajara
+26,2026-02-15,Guadalajara
+29,2026-02-15,Monterrey
+49,2026-02-16,Ciudad de México
+40,2026-02-16,Ciudad de México
+30,2026-02-16,Guadalajara
+28,2026-02-16,Guadalajara
+30,2026-02-16,Guadalajara
+40,2026-02-16,Guadalajara
+53,2026-02-16,Monterrey
+39,2026-02-16,Monterrey
+38,2026-02-16,Monterrey
+47,2026-02-17,Monterrey
+29,2026-02-17,Monterrey
+49,2026-02-17,Monterrey
+49,2026-02-18,Ciudad de México
+54,2026-02-18,Ciudad de México
+47,2026-02-18,Ciudad de México
+35,2026-02-18,Guadalajara
+18,2026-02-18,Guadalajara
+26,2026-02-18,Guadalajara
+1,2026-02-18,Monterrey
+46,2026-02-19,Ciudad de México
+42,2026-02-19,Ciudad de México
+53,2026-02-19,Ciudad de México
+40,2026-02-19,Guadalajara
+38,2026-02-19,Guadalajara
+30,2026-02-19,Guadalajara
+40,2026-02-19,Guadalajara
+15,2026-02-19,Monterrey
+40,2026-02-19,Monterrey
+26,2026-02-20,Guadalajara
+19,2026-02-20,Guadalajara
+36,2026-02-20,Monterrey
+6,2026-02-20,Monterrey
+39,2026-02-20,Monterrey
+66,2026-02-21,Ciudad de México
+37,2026-02-21,Ciudad de México
+34,2026-02-21,Guadalajara
+61,2026-02-21,Monterrey
+45,2026-02-21,Monterrey
+45,2026-02-23,Ciudad de México
+29,2026-02-23,Ciudad de México
+30,2026-02-23,Guadalajara
+38,2026-02-24,Ciudad de México
+36,2026-02-24,Guadalajara
+31,2026-02-24,Guadalajara
+42,2026-02-24,Monterrey
+28,2026-02-24,Monterrey
+33,2026-02-25,Ciudad de México
+32,2026-02-25,Guadalajara
+31,2026-02-25,Guadalajara
+39,2026-02-25,Guadalajara
+34,2026-02-26,Ciudad de México
+24,2026-02-26,Guadalajara
+44,2026-02-26,Monterrey
+55,2026-02-27,Ciudad de México
+25,2026-02-27,Guadalajara
+23,2026-02-27,Guadalajara
+15,2026-02-27,Monterrey
+43,2026-02-27,Monterrey
+26,2026-02-28,Ciudad de México
+46,2026-02-28,Ciudad de México
+24,2026-02-28,Guadalajara
+40,2026-02-28,Monterrey
+45,2026-02-28,Monterrey
+45,2026-03-01,Ciudad de México
+44,2026-03-01,Guadalajara
+29,2026-03-01,Guadalajara
+13,2026-03-01,Guadalajara
+30,2026-03-01,Guadalajara
+28,2026-03-01,Monterrey
+50,2026-03-01,Monterrey
+27,2026-03-02,Ciudad de México
+40,2026-03-02,Ciudad de México
+24,2026-03-02,Guadalajara
+37,2026-03-02,Monterrey
+16,2026-03-03,Guadalajara
+33,2026-03-03,Monterrey
+50,2026-03-03,Monterrey
+55,2026-03-04,Ciudad de México
+46,2026-03-04,Guadalajara
+33,2026-03-04,Guadalajara
+30,2026-03-04,Guadalajara
+46,2026-03-04,Monterrey
+40,2026-03-04,Monterrey
+29,2026-03-04,Monterrey
+45,2026-03-04,Monterrey
+28,2026-03-05,Guadalajara
+28,2026-03-05,Guadalajara
+25,2026-03-05,Monterrey
+12,2026-03-05,Monterrey
+40,2026-03-06,Ciudad de México
+36,2026-03-06,Ciudad de México
+37,2026-03-06,Monterrey
+61,2026-03-07,Ciudad de México
+45,2026-03-07,Ciudad de México
+39,2026-03-07,Guadalajara
+43,2026-03-08,Ciudad de México
+36,2026-03-08,Guadalajara
+41,2026-03-09,Ciudad de México
+40,2026-03-09,Ciudad de México
+55,2026-03-09,Ciudad de México
+20,2026-03-09,Guadalajara
+28,2026-03-09,Monterrey
+30,2026-03-10,Ciudad de México
+32,2026-03-10,Ciudad de México
+25,2026-03-10,Ciudad de México
+49,2026-03-10,Guadalajara
+25,2026-03-10,Guadalajara
+33,2026-03-10,Guadalajara
+40,2026-03-11,Ciudad de México
+41,2026-03-11,Ciudad de México
+35,2026-03-11,Guadalajara
+31,2026-03-11,Guadalajara
+39,2026-03-11,Guadalajara
+21,2026-03-11,Monterrey
+52,2026-03-11,Monterrey
+29,2026-03-11,Monterrey
+33,2026-03-12,Guadalajara
+38,2026-03-12,Monterrey
+55,2026-03-13,Ciudad de México
+31,2026-03-13,Guadalajara
+27,2026-03-13,Monterrey
+41,2026-03-14,Guadalajara
+26,2026-03-14,Guadalajara
+37,2026-03-14,Guadalajara
+20,2026-03-14,Guadalajara
+15,2026-03-14,Monterrey
+26,2026-03-14,Monterrey
+30,2026-03-15,Ciudad de México
+23,2026-03-15,Monterrey
+53,2026-03-15,Monterrey
+33,2026-03-16,Ciudad de México
+43,2026-03-16,Guadalajara
+42,2026-03-16,Monterrey
+29,2026-03-16,Monterrey
+32,2026-03-16,Monterrey
+64,2026-03-17,Ciudad de México
+23,2026-03-17,Ciudad de México
+27,2026-03-17,Guadalajara
+23,2026-03-17,Guadalajara
+47,2026-03-18,Ciudad de México
+26,2026-03-18,Ciudad de México
+28,2026-03-18,Monterrey
+31,2026-03-18,Monterrey
+42,2026-03-19,Ciudad de México
+32,2026-03-19,Ciudad de México
+47,2026-03-19,Ciudad de México
+36,2026-03-19,Guadalajara
+30,2026-03-19,Guadalajara
+62,2026-03-19,Monterrey
+36,2026-03-20,Ciudad de México
+35,2026-03-20,Guadalajara
+65,2026-03-20,Monterrey
+26,2026-03-21,Guadalajara
+30,2026-03-21,Monterrey
+69,2026-03-22,Ciudad de México
+49,2026-03-22,Ciudad de México
+32,2026-03-22,Guadalajara
+50,2026-03-22,Guadalajara
+45,2026-03-22,Monterrey
+33,2026-03-23,Ciudad de México
+26,2026-03-23,Guadalajara
+37,2026-03-23,Monterrey
+56,2026-03-24,Ciudad de México
+42,2026-03-24,Ciudad de México
+33,2026-03-24,Guadalajara
+28,2026-03-24,Monterrey
+53,2026-03-25,Ciudad de México
+36,2026-03-25,Guadalajara
+29,2026-03-25,Monterrey
+35,2026-03-25,Monterrey
+51,2026-03-25,Monterrey
+22,2026-03-26,Ciudad de México
+34,2026-03-26,Ciudad de México
+34,2026-03-27,Ciudad de México
+52,2026-03-27,Ciudad de México
+43,2026-03-27,Ciudad de México
+28,2026-03-27,Ciudad de México
+25,2026-03-27,Guadalajara
+40,2026-03-27,Monterrey
+51,2026-03-28,Guadalajara
+40,2026-03-29,Ciudad de México
+58,2026-03-29,Ciudad de México
+49,2026-03-30,Ciudad de México
+51,2026-03-30,Ciudad de México
+38,2026-03-30,Ciudad de México
+18,2026-03-30,Monterrey
+34,2026-03-30,Monterrey
+50,2026-03-31,Ciudad de México
+32,2026-03-31,Monterrey
+24,2026-03-31,Monterrey
+42,2026-03-31,Monterrey
+36,2026-04-01,Monterrey
+54,2026-04-01,Monterrey
+39,2026-04-01,Monterrey
+38,2026-04-01,Monterrey
+21,2026-04-02,Guadalajara
+32,2026-04-02,Monterrey
+43,2026-04-02,Monterrey
+65,2026-04-02,Monterrey
+58,2026-04-03,Ciudad de México
+31,2026-04-03,Ciudad de México
+27,2026-04-03,Guadalajara
+38,2026-04-03,Guadalajara
+25,2026-04-03,Monterrey
+47,2026-04-04,Ciudad de México
+34,2026-04-04,Guadalajara
+30,2026-04-04,Guadalajara
+26,2026-04-04,Monterrey
+34,2026-04-04,Monterrey
+37,2026-04-04,Monterrey
+43,2026-04-04,Monterrey
+33,2026-04-04,Monterrey
+29,2026-04-05,Ciudad de México
+65,2026-04-05,Ciudad de México
+51,2026-04-05,Monterrey
+18,2026-04-05,Monterrey
+39,2026-04-05,Monterrey
+44,2026-04-06,Ciudad de México
+27,2026-04-06,Ciudad de México
+18,2026-04-06,Ciudad de México
+24,2026-04-06,Guadalajara
+13,2026-04-07,Guadalajara
+48,2026-04-07,Monterrey
+21,2026-04-07,Monterrey
+43,2026-04-07,Monterrey
+29,2026-04-07,Monterrey
+29,2026-04-08,Ciudad de México
+40,2026-04-08,Ciudad de México
+50,2026-04-08,Ciudad de México
+34,2026-04-08,Guadalajara
+49,2026-04-08,Monterrey
+44,2026-04-09,Ciudad de México
+35,2026-04-09,Ciudad de México
+13,2026-04-09,Guadalajara
+24,2026-04-09,Guadalajara
+55,2026-04-09,Monterrey
+68,2026-04-09,Monterrey
+44,2026-04-09,Monterrey
+32,2026-04-10,Ciudad de México
+37,2026-04-10,Ciudad de México
+31,2026-04-10,Guadalajara
+41,2026-04-10,Monterrey
+56,2026-04-11,Ciudad de México
+42,2026-04-12,Ciudad de México
+52,2026-04-12,Ciudad de México
+17,2026-04-12,Guadalajara
+19,2026-04-12,Guadalajara
+46,2026-04-13,Ciudad de México
+24,2026-04-13,Guadalajara
+13,2026-04-13,Guadalajara
+37,2026-04-13,Guadalajara
+30,2026-04-13,Guadalajara
+50,2026-04-13,Monterrey
+46,2026-04-14,Ciudad de México
+44,2026-04-14,Ciudad de México
+26,2026-04-14,Guadalajara
+32,2026-04-14,Guadalajara
+29,2026-04-14,Monterrey
+37,2026-04-15,Ciudad de México
+53,2026-04-15,Ciudad de México
+26,2026-04-15,Guadalajara
+35,2026-04-15,Monterrey
+55,2026-04-15,Monterrey
+31,2026-04-16,Guadalajara
+21,2026-04-16,Guadalajara
+20,2026-04-16,Guadalajara
+18,2026-04-16,Guadalajara
+30,2026-04-16,Monterrey
+31,2026-04-16,Monterrey
+27,2026-04-16,Monterrey
+45,2026-04-17,Ciudad de México
+39,2026-04-17,Ciudad de México
+39,2026-04-17,Guadalajara
+41,2026-04-17,Guadalajara
+53,2026-04-17,Guadalajara
+56,2026-04-17,Monterrey
+53,2026-04-17,Monterrey
+16,2026-04-17,Monterrey
+24,2026-04-18,Guadalajara
+23,2026-04-18,Guadalajara
+36,2026-04-18,Guadalajara
+38,2026-04-18,Guadalajara
+23,2026-04-18,Guadalajara
+33,2026-04-18,Guadalajara
+27,2026-04-19,Guadalajara
+19,2026-04-20,Ciudad de México
+33,2026-04-20,Ciudad de México
+42,2026-04-20,Ciudad de México
+50,2026-04-20,Ciudad de México
+29,2026-04-20,Guadalajara
+34,2026-04-20,Guadalajara
+41,2026-04-20,Guadalajara
+38,2026-04-20,Monterrey
+43,2026-04-21,Ciudad de México
+48,2026-04-21,Monterrey
+28,2026-04-21,Monterrey
+23,2026-04-21,Monterrey
+30,2026-04-22,Guadalajara
+38,2026-04-22,Guadalajara
+35,2026-04-22,Monterrey
+42,2026-04-23,Ciudad de México
+18,2026-04-23,Ciudad de México
+21,2026-04-23,Guadalajara
+18,2026-04-23,Guadalajara
+16,2026-04-23,Guadalajara
+33,2026-04-23,Guadalajara
+49,2026-04-23,Monterrey
+36,2026-04-24,Guadalajara
+31,2026-04-25,Ciudad de México
+56,2026-04-25,Ciudad de México
+18,2026-04-25,Monterrey
+57,2026-04-26,Ciudad de México
+78,2026-04-26,Ciudad de México
+30,2026-04-26,Ciudad de México
+21,2026-04-26,Guadalajara
+36,2026-04-26,Monterrey
+58,2026-04-26,Monterrey
+41,2026-04-26,Monterrey
+42,2026-04-27,Ciudad de México
+40,2026-04-27,Monterrey
+37,2026-04-27,Monterrey
+36,2026-04-27,Monterrey
+43,2026-04-28,Ciudad de México
+33,2026-04-28,Ciudad de México
+26,2026-04-28,Guadalajara
+44,2026-04-29,Ciudad de México
+42,2026-04-29,Ciudad de México
+33,2026-04-29,Ciudad de México
+30,2026-04-29,Guadalajara
+33,2026-04-30,Ciudad de México
+50,2026-04-30,Ciudad de México
+34,2026-04-30,Ciudad de México
+29,2026-04-30,Ciudad de México
+43,2026-04-30,Guadalajara
+45,2026-04-30,Monterrey
+63,2026-05-01,Ciudad de México
+32,2026-05-01,Ciudad de México
+41,2026-05-01,Ciudad de México
+23,2026-05-01,Guadalajara
+35,2026-05-01,Guadalajara
+33,2026-05-01,Guadalajara
+67,2026-05-02,Ciudad de México
+42,2026-05-02,Guadalajara
+37,2026-05-02,Monterrey
+54,2026-05-03,Ciudad de México
+31,2026-05-03,Guadalajara
+34,2026-05-03,Guadalajara
+33,2026-05-03,Monterrey
+43,2026-05-03,Monterrey
+32,2026-05-04,Ciudad de México
+42,2026-05-04,Ciudad de México
+51,2026-05-04,Ciudad de México
+30,2026-05-04,Ciudad de México
+41,2026-05-04,Ciudad de México
+32,2026-05-04,Guadalajara
+32,2026-05-04,Guadalajara
+16,2026-05-04,Guadalajara
+52,2026-05-04,Guadalajara
+15,2026-05-04,Monterrey
+38,2026-05-04,Monterrey
+20,2026-05-04,Monterrey
+56,2026-05-05,Ciudad de México
+41,2026-05-05,Ciudad de México
+51,2026-05-05,Ciudad de México
+17,2026-05-05,Guadalajara
+40,2026-05-05,Monterrey
+61,2026-05-05,Monterrey
+23,2026-05-05,Monterrey
+42,2026-05-06,Guadalajara
+37,2026-05-06,Monterrey
+9,2026-05-06,Monterrey
+44,2026-05-06,Monterrey
+55,2026-05-07,Ciudad de México
+29,2026-05-07,Monterrey
+39,2026-05-07,Monterrey
+39,2026-05-07,Monterrey
+56,2026-05-08,Ciudad de México
+53,2026-05-09,Ciudad de México
+53,2026-05-09,Ciudad de México
+16,2026-05-09,Guadalajara
+32,2026-05-09,Monterrey
+25,2026-05-10,Guadalajara
+33,2026-05-10,Guadalajara
+39,2026-05-10,Monterrey
+36,2026-05-10,Monterrey
+66,2026-05-11,Ciudad de México
+16,2026-05-11,Ciudad de México
+28,2026-05-11,Guadalajara
+19,2026-05-11,Monterrey
+34,2026-05-12,Ciudad de México
+35,2026-05-12,Guadalajara
+41,2026-05-12,Guadalajara
+26,2026-05-12,Monterrey
+37,2026-05-12,Monterrey
+30,2026-05-13,Ciudad de México
+31,2026-05-13,Ciudad de México
+42,2026-05-13,Ciudad de México
+25,2026-05-13,Ciudad de México
+18,2026-05-13,Monterrey
+46,2026-05-13,Monterrey
+51,2026-05-14,Ciudad de México
+30,2026-05-14,Guadalajara
+24,2026-05-14,Monterrey
+42,2026-05-15,Ciudad de México
+45,2026-05-15,Ciudad de México
+24,2026-05-15,Guadalajara
+21,2026-05-15,Guadalajara
+36,2026-05-15,Guadalajara
+28,2026-05-15,Guadalajara
+24,2026-05-15,Guadalajara
+38,2026-05-15,Monterrey
+30,2026-05-15,Monterrey
+43,2026-05-15,Monterrey
+60,2026-05-16,Ciudad de México
+34,2026-05-16,Guadalajara
+20,2026-05-16,Guadalajara
+25,2026-05-16,Guadalajara
+34,2026-05-16,Guadalajara
+49,2026-05-17,Ciudad de México
+28,2026-05-17,Guadalajara
+21,2026-05-17,Guadalajara
+34,2026-05-17,Guadalajara
+34,2026-05-17,Monterrey
+38,2026-05-17,Monterrey
+54,2026-05-18,Ciudad de México
+60,2026-05-18,Monterrey
+54,2026-05-18,Monterrey
+27,2026-05-19,Ciudad de México
+37,2026-05-19,Guadalajara
+25,2026-05-19,Guadalajara
+36,2026-05-20,Ciudad de México
+38,2026-05-20,Guadalajara
+20,2026-05-20,Monterrey
+40,2026-05-20,Monterrey
+30,2026-05-20,Monterrey
+47,2026-05-21,Ciudad de México
+68,2026-05-21,Ciudad de México
+21,2026-05-21,Guadalajara
+24,2026-05-21,Guadalajara
+44,2026-05-21,Guadalajara
+27,2026-05-22,Ciudad de México
+57,2026-05-22,Monterrey
+41,2026-05-23,Ciudad de México
+40,2026-05-23,Ciudad de México
+38,2026-05-24,Ciudad de México
+36,2026-05-24,Guadalajara
+42,2026-05-25,Ciudad de México
+33,2026-05-25,Guadalajara
+44,2026-05-26,Ciudad de México
+20,2026-05-26,Guadalajara
+48,2026-05-27,Ciudad de México
+36,2026-05-27,Ciudad de México
+56,2026-05-27,Ciudad de México
+7,2026-05-27,Guadalajara
+37,2026-05-27,Guadalajara
+57,2026-05-27,Monterrey
+32,2026-05-27,Monterrey
+29,2026-05-27,Monterrey
+42,2026-05-28,Guadalajara
+40,2026-05-28,Monterrey
+29,2026-05-28,Monterrey
+32,2026-05-28,Monterrey
+21,2026-05-29,Guadalajara
+21,2026-05-30,Ciudad de México
+62,2026-05-30,Ciudad de México
+38,2026-05-31,Ciudad de México
+46,2026-05-31,Ciudad de México
+56,2026-05-31,Ciudad de México
+49,2026-05-31,Guadalajara
+22,2026-05-31,Monterrey
+31,2026-06-01,Guadalajara
+27,2026-06-01,Guadalajara
+31,2026-06-02,Ciudad de México
+26,2026-06-02,Ciudad de México
+38,2026-06-02,Ciudad de México
+48,2026-06-02,Monterrey
+34,2026-06-03,Ciudad de México
+45,2026-06-03,Monterrey
+48,2026-06-04,Ciudad de México
+45,2026-06-04,Guadalajara
+33,2026-06-04,Monterrey
+32,2026-06-04,Monterrey
+54,2026-06-05,Ciudad de México
+45,2026-06-05,Ciudad de México
+30,2026-06-05,Ciudad de México
+81,2026-06-05,Ciudad de México
+39,2026-06-05,Monterrey
+43,2026-06-06,Ciudad de México
+40,2026-06-06,Ciudad de México
+27,2026-06-06,Guadalajara
+23,2026-06-06,Monterrey
+54,2026-06-06,Monterrey
+32,2026-06-07,Ciudad de México
+39,2026-06-07,Ciudad de México
+52,2026-06-07,Ciudad de México
+11,2026-06-07,Guadalajara
+23,2026-06-07,Guadalajara
+29,2026-06-07,Guadalajara
+34,2026-06-07,Monterrey
+35,2026-06-07,Monterrey
+33,2026-06-07,Monterrey
+30,2026-06-08,Guadalajara
+33,2026-06-08,Guadalajara
+51,2026-06-09,Ciudad de México
+49,2026-06-09,Ciudad de México
+34,2026-06-09,Guadalajara
+63,2026-06-10,Ciudad de México
+44,2026-06-10,Ciudad de México
+20,2026-06-10,Monterrey
+22,2026-06-10,Monterrey
+39,2026-06-11,Guadalajara
+17,2026-06-11,Monterrey
+41,2026-06-11,Monterrey
+68,2026-06-12,Ciudad de México
+43,2026-06-12,Guadalajara
+39,2026-06-12,Monterrey
+39,2026-06-13,Ciudad de México
+7,2026-06-13,Guadalajara
+36,2026-06-14,Monterrey
+31,2026-06-15,Ciudad de México
+39,2026-06-15,Ciudad de México
+30,2026-06-15,Guadalajara
+27,2026-06-16,Ciudad de México
+19,2026-06-16,Guadalajara
+24,2026-06-16,Guadalajara
+20,2026-06-16,Monterrey
+49,2026-06-16,Monterrey
+27,2026-06-17,Guadalajara
+54,2026-06-17,Guadalajara
+4,2026-06-17,Guadalajara
+33,2026-06-17,Guadalajara
+38,2026-06-17,Monterrey
+35,2026-06-18,Ciudad de México
+43,2026-06-18,Ciudad de México
+58,2026-06-18,Monterrey
+53,2026-06-18,Monterrey
+53,2026-06-19,Ciudad de México
+53,2026-06-19,Ciudad de México
+63,2026-06-19,Ciudad de México
+45,2026-06-19,Ciudad de México
+42,2026-06-19,Guadalajara
+18,2026-06-19,Guadalajara
+26,2026-06-19,Guadalajara
+34,2026-06-19,Guadalajara
+29,2026-06-19,Guadalajara
+29,2026-06-19,Guadalajara
+42,2026-06-19,Guadalajara
+23,2026-06-19,Guadalajara
+48,2026-06-19,Monterrey
+9,2026-06-19,Monterrey
+44,2026-06-20,Ciudad de México
+14,2026-06-20,Monterrey
+37,2026-06-21,Ciudad de México
+33,2026-06-21,Guadalajara
+24,2026-06-21,Guadalajara
+25,2026-06-21,Guadalajara
+49,2026-06-22,Ciudad de México
+48,2026-06-22,Ciudad de México
+27,2026-06-22,Guadalajara
+43,2026-06-22,Monterrey
+30,2026-06-22,Monterrey
+46,2026-06-23,Ciudad de México
+52,2026-06-23,Ciudad de México
+36,2026-06-23,Guadalajara
+54,2026-06-23,Monterrey
+39,2026-06-23,Monterrey
+17,2026-06-24,Guadalajara
+36,2026-06-24,Monterrey
+26,2026-06-25,Ciudad de México
+49,2026-06-25,Ciudad de México
+52,2026-06-25,Ciudad de México
+32,2026-06-25,Ciudad de México
+39,2026-06-25,Guadalajara
+36,2026-06-25,Guadalajara
+27,2026-06-25,Guadalajara
+18,2026-06-25,Guadalajara
+52,2026-06-25,Monterrey
+27,2026-06-26,Ciudad de México
+36,2026-06-26,Ciudad de México
+28,2026-06-26,Guadalajara
+35,2026-06-26,Guadalajara
+39,2026-06-26,Monterrey
+37,2026-06-27,Ciudad de México
+20,2026-06-27,Ciudad de México
+35,2026-06-27,Guadalajara
+27,2026-06-27,Guadalajara
+55,2026-06-27,Monterrey
+18,2026-06-28,Guadalajara
+20,2026-06-28,Guadalajara
+22,2026-06-28,Guadalajara
+17,2026-06-28,Guadalajara
+21,2026-06-29,Ciudad de México
+25,2026-06-29,Ciudad de México
+18,2026-06-29,Guadalajara
+29,2026-06-29,Monterrey
+28,2026-06-30,Ciudad de México
+47,2026-06-30,Ciudad de México
+34,2026-06-30,Ciudad de México
+40,2026-06-30,Guadalajara
+18,2026-06-30,Guadalajara
+40,2026-06-30,Monterrey
+44,2026-06-30,Monterrey
+48,2026-07-01,Ciudad de México
+34,2026-07-01,Ciudad de México
+37,2026-07-01,Ciudad de México
+33,2026-07-01,Ciudad de México
+20,2026-07-01,Guadalajara
+20,2026-07-01,Guadalajara
+52,2026-07-01,Guadalajara
+54,2026-07-01,Monterrey
+33,2026-07-01,Monterrey
+46,2026-07-02,Ciudad de México
+12,2026-07-02,Monterrey
+39,2026-07-03,Ciudad de México
+40,2026-07-03,Guadalajara
+29,2026-07-03,Guadalajara
+70,2026-07-04,Ciudad de México
+16,2026-07-04,Ciudad de México
+23,2026-07-04,Guadalajara
+10,2026-07-04,Guadalajara
+21,2026-07-04,Guadalajara
+37,2026-07-04,Guadalajara
+42,2026-07-04,Monterrey
+34,2026-07-04,Monterrey
+42,2026-07-05,Ciudad de México
+43,2026-07-05,Guadalajara
+34,2026-07-05,Monterrey
+21,2026-07-06,Ciudad de México
+52,2026-07-06,Ciudad de México
+26,2026-07-06,Guadalajara
+18,2026-07-06,Guadalajara
+17,2026-07-06,Guadalajara
+32,2026-07-07,Monterrey
+45,2026-07-07,Monterrey
+48,2026-07-08,Ciudad de México
+35,2026-07-08,Ciudad de México
+31,2026-07-08,Guadalajara
+35,2026-07-08,Guadalajara
+41,2026-07-08,Guadalajara
+22,2026-07-08,Monterrey
+41,2026-07-08,Monterrey
+42,2026-07-09,Ciudad de México
+22,2026-07-09,Guadalajara
+25,2026-07-09,Guadalajara
+23,2026-07-09,Guadalajara
+30,2026-07-09,Guadalajara
+52,2026-07-10,Ciudad de México
+51,2026-07-10,Ciudad de México
+26,2026-07-10,Guadalajara
+26,2026-07-10,Monterrey
+28,2026-07-11,Ciudad de México
+34,2026-07-11,Monterrey
+30,2026-07-12,Guadalajara
+40,2026-07-12,Guadalajara
+36,2026-07-12,Guadalajara
+28,2026-07-12,Guadalajara
+14,2026-07-12,Guadalajara
+25,2026-07-12,Monterrey
+44,2026-07-13,Ciudad de México
+29,2026-07-13,Ciudad de México
+46,2026-07-13,Monterrey
+41,2026-07-14,Ciudad de México
+33,2026-07-14,Ciudad de México
+38,2026-07-15,Ciudad de México
+50,2026-07-15,Ciudad de México
+23,2026-07-15,Guadalajara
+19,2026-07-15,Guadalajara
+26,2026-07-15,Guadalajara
+31,2026-07-15,Monterrey
+53,2026-07-16,Ciudad de México
+41,2026-07-16,Ciudad de México
+38,2026-07-17,Ciudad de México
+40,2026-07-17,Guadalajara
+1,2026-07-17,Monterrey
+47,2026-07-17,Monterrey
+35,2026-07-17,Monterrey
+35,2026-07-18,Guadalajara
+34,2026-07-18,Monterrey
+47,2026-07-18,Monterrey
+54,2026-07-19,Ciudad de México
+27,2026-07-19,Guadalajara
+49,2026-07-20,Ciudad de México
+32,2026-07-20,Guadalajara
+32,2026-07-21,Ciudad de México
+57,2026-07-21,Ciudad de México
+9,2026-07-21,Guadalajara
+28,2026-07-21,Guadalajara
+45,2026-07-21,Monterrey
+48,2026-07-22,Ciudad de México
+58,2026-07-22,Ciudad de México
+30,2026-07-22,Guadalajara
+28,2026-07-22,Guadalajara
+33,2026-07-22,Monterrey
+28,2026-07-23,Ciudad de México
+23,2026-07-23,Monterrey
+35,2026-07-23,Monterrey
+32,2026-07-24,Guadalajara
+49,2026-07-24,Monterrey
+23,2026-07-24,Monterrey
+30,2026-07-24,Monterrey
+31,2026-07-24,Monterrey
+50,2026-07-25,Ciudad de México
+20,2026-07-25,Guadalajara
+39,2026-07-25,Guadalajara
+26,2026-07-25,Monterrey
+37,2026-07-25,Monterrey
+26,2026-07-26,Guadalajara
+55,2026-07-27,Ciudad de México
+45,2026-07-27,Ciudad de México
+30,2026-07-27,Guadalajara
+18,2026-07-28,Ciudad de México
+45,2026-07-28,Ciudad de México
+18,2026-07-28,Guadalajara
+41,2026-07-28,Guadalajara
+44,2026-07-29,Ciudad de México
+20,2026-07-29,Guadalajara
+28,2026-07-29,Guadalajara
+32,2026-07-29,Guadalajara
+31,2026-07-30,Ciudad de México
+18,2026-07-30,Ciudad de México
+53,2026-07-30,Ciudad de México
+32,2026-07-30,Guadalajara
+33,2026-07-30,Monterrey
+66,2026-07-31,Ciudad de México
+36,2026-07-31,Ciudad de México
+30,2026-07-31,Guadalajara
+20,2026-07-31,Monterrey
+33,2026-08-01,Ciudad de México
+41,2026-08-01,Guadalajara
+28,2026-08-01,Guadalajara
+32,2026-08-01,Monterrey
+51,2026-08-01,Monterrey
+54,2026-08-02,Ciudad de México
+21,2026-08-02,Guadalajara
+38,2026-08-02,Monterrey
+30,2026-08-03,Guadalajara
+34,2026-08-03,Guadalajara
+19,2026-08-03,Guadalajara
+24,2026-08-04,Ciudad de México
+65,2026-08-04,Ciudad de México
+52,2026-08-05,Ciudad de México
+42,2026-08-05,Ciudad de México
+25,2026-08-05,Guadalajara
+45,2026-08-05,Monterrey
+24,2026-08-05,Monterrey
+29,2026-08-06,Ciudad de México
+45,2026-08-06,Guadalajara
+32,2026-08-06,Guadalajara
+38,2026-08-06,Monterrey
+40,2026-08-06,Monterrey
+23,2026-08-07,Guadalajara
+29,2026-08-07,Monterrey
+37,2026-08-08,Ciudad de México
+42,2026-08-08,Ciudad de México
+36,2026-08-08,Guadalajara
+14,2026-08-08,Guadalajara
+51,2026-08-08,Monterrey
+48,2026-08-09,Ciudad de México
+61,2026-08-09,Ciudad de México
+58,2026-08-09,Ciudad de México
+35,2026-08-09,Monterrey
+9,2026-08-10,Ciudad de México
+47,2026-08-10,Ciudad de México
+24,2026-08-10,Ciudad de México
+35,2026-08-10,Monterrey
+23,2026-08-10,Monterrey
+32,2026-08-10,Monterrey
+49,2026-08-10,Monterrey
+27,2026-08-11,Ciudad de México
+38,2026-08-11,Ciudad de México
+30,2026-08-11,Guadalajara
+35,2026-08-11,Guadalajara
+34,2026-08-11,Guadalajara
+28,2026-08-11,Guadalajara
+37,2026-08-12,Ciudad de México
+57,2026-08-12,Ciudad de México
+11,2026-08-12,Ciudad de México
+36,2026-08-12,Guadalajara
+53,2026-08-12,Monterrey
+36,2026-08-12,Monterrey
+39,2026-08-13,Ciudad de México
+37,2026-08-13,Guadalajara
+30,2026-08-13,Monterrey
+47,2026-08-14,Ciudad de México
+34,2026-08-14,Ciudad de México
+54,2026-08-15,Ciudad de México
+53,2026-08-15,Ciudad de México
+25,2026-08-15,Guadalajara
+49,2026-08-15,Monterrey
+33,2026-08-15,Monterrey
+12,2026-08-16,Ciudad de México
+27,2026-08-16,Ciudad de México
+34,2026-08-16,Guadalajara
+63,2026-08-17,Ciudad de México
+18,2026-08-17,Ciudad de México
+39,2026-08-17,Monterrey
+41,2026-08-18,Ciudad de México
+50,2026-08-18,Ciudad de México
+44,2026-08-18,Ciudad de México
+32,2026-08-18,Guadalajara
+29,2026-08-18,Monterrey
+21,2026-08-18,Monterrey
+49,2026-08-19,Monterrey
+38,2026-08-20,Ciudad de México
+52,2026-08-20,Guadalajara
+13,2026-08-20,Guadalajara
+52,2026-08-20,Monterrey
+41,2026-08-21,Ciudad de México
+27,2026-08-21,Guadalajara
+23,2026-08-21,Monterrey
+56,2026-08-22,Ciudad de México
+29,2026-08-23,Monterrey
+39,2026-08-23,Monterrey
+27,2026-08-24,Guadalajara
+47,2026-08-24,Monterrey
+65,2026-08-25,Ciudad de México
+20,2026-08-25,Ciudad de México
+44,2026-08-25,Monterrey
+31,2026-08-26,Guadalajara
+24,2026-08-26,Guadalajara
+57,2026-08-26,Monterrey
+54,2026-08-27,Ciudad de México
+55,2026-08-27,Ciudad de México
+45,2026-08-27,Guadalajara
+29,2026-08-27,Guadalajara
+37,2026-08-28,Ciudad de México
+28,2026-08-28,Guadalajara
+32,2026-08-28,Guadalajara
+22,2026-08-28,Monterrey
+37,2026-08-28,Monterrey
+33,2026-08-28,Monterrey
+43,2026-08-29,Ciudad de México
+44,2026-08-29,Monterrey
+25,2026-08-30,Ciudad de México
+47,2026-08-30,Ciudad de México
+30,2026-08-30,Ciudad de México
+50,2026-08-30,Ciudad de México
+32,2026-08-30,Guadalajara
+25,2026-08-30,Monterrey
+35,2026-08-30,Monterrey
+29,2026-08-31,Ciudad de México
+36,2026-08-31,Ciudad de México
+29,2026-08-31,Guadalajara
+26,2026-08-31,Guadalajara
+38,2026-08-31,Guadalajara
+30,2026-08-31,Guadalajara
+35,2026-08-31,Guadalajara
+30,2026-08-31,Guadalajara
+23,2026-08-31,Monterrey
+32,2026-09-01,Ciudad de México
+67,2026-09-02,Ciudad de México
+28,2026-09-02,Ciudad de México
+32,2026-09-02,Ciudad de México
+61,2026-09-03,Ciudad de México
+49,2026-09-03,Monterrey
+40,2026-09-04,Ciudad de México
+17,2026-09-04,Ciudad de México
+22,2026-09-04,Guadalajara
+22,2026-09-04,Guadalajara
+51,2026-09-05,Ciudad de México
+31,2026-09-05,Guadalajara
+19,2026-09-05,Guadalajara
+29,2026-09-05,Monterrey
+45,2026-09-05,Monterrey
+26,2026-09-05,Monterrey
+25,2026-09-06,Ciudad de México
+53,2026-09-06,Ciudad de México
+21,2026-09-06,Guadalajara
+32,2026-09-06,Guadalajara
+29,2026-09-06,Monterrey
+25,2026-09-07,Ciudad de México
+37,2026-09-07,Ciudad de México
+30,2026-09-07,Guadalajara
+43,2026-09-07,Guadalajara
+26,2026-09-08,Monterrey
+41,2026-09-09,Ciudad de México
+42,2026-09-09,Guadalajara
+16,2026-09-09,Monterrey
+35,2026-09-09,Monterrey
+26,2026-09-09,Monterrey
+48,2026-09-10,Ciudad de México
+29,2026-09-10,Ciudad de México
+44,2026-09-10,Ciudad de México
+53,2026-09-10,Ciudad de México
+17,2026-09-10,Guadalajara
+37,2026-09-10,Monterrey
+41,2026-09-11,Ciudad de México
+30,2026-09-11,Guadalajara
+19,2026-09-11,Guadalajara
+39,2026-09-11,Monterrey
+48,2026-09-11,Monterrey
+39,2026-09-12,Ciudad de México
+41,2026-09-12,Ciudad de México
+50,2026-09-12,Monterrey
+32,2026-09-13,Guadalajara
+45,2026-09-13,Guadalajara
+46,2026-09-13,Monterrey
+38,2026-09-14,Guadalajara
+25,2026-09-14,Monterrey
+33,2026-09-15,Guadalajara
+22,2026-09-15,Guadalajara
+37,2026-09-15,Guadalajara
+23,2026-09-15,Monterrey
+33,2026-09-16,Ciudad de México
+60,2026-09-17,Ciudad de México
+11,2026-09-17,Ciudad de México
+56,2026-09-17,Ciudad de México
+38,2026-09-17,Guadalajara
+17,2026-09-17,Guadalajara
+25,2026-09-17,Guadalajara
+35,2026-09-17,Guadalajara
+49,2026-09-18,Ciudad de México
+55,2026-09-18,Ciudad de México
+54,2026-09-18,Ciudad de México
+43,2026-09-18,Ciudad de México
+63,2026-09-18,Monterrey
+24,2026-09-18,Monterrey
+35,2026-09-19,Guadalajara
+51,2026-09-19,Monterrey
+42,2026-09-19,Monterrey
+45,2026-09-19,Monterrey
+45,2026-09-20,Ciudad de México
+38,2026-09-20,Monterrey
+37,2026-09-20,Monterrey
+45,2026-09-21,Ciudad de México
+36,2026-09-21,Ciudad de México
+34,2026-09-21,Ciudad de México
+36,2026-09-21,Guadalajara
+44,2026-09-21,Monterrey
+56,2026-09-22,Ciudad de México
+49,2026-09-22,Ciudad de México
+49,2026-09-22,Ciudad de México
+37,2026-09-22,Ciudad de México
+20,2026-09-22,Monterrey
+27,2026-09-22,Monterrey
+53,2026-09-23,Ciudad de México
+42,2026-09-23,Ciudad de México
+29,2026-09-23,Guadalajara
+17,2026-09-23,Monterrey
+43,2026-09-23,Monterrey
+33,2026-09-23,Monterrey
+45,2026-09-24,Guadalajara
+26,2026-09-24,Guadalajara
+23,2026-09-24,Guadalajara
+38,2026-09-24,Monterrey
+37,2026-09-25,Ciudad de México
+37,2026-09-25,Monterrey
+48,2026-09-25,Monterrey
+42,2026-09-26,Guadalajara
+34,2026-09-26,Monterrey
+39,2026-09-27,Ciudad de México
+32,2026-09-27,Guadalajara
+31,2026-09-27,Guadalajara
+32,2026-09-27,Monterrey
+48,2026-09-27,Monterrey
+54,2026-09-28,Guadalajara
+42,2026-09-28,Monterrey
+31,2026-09-28,Monterrey
+22,2026-09-28,Monterrey
+28,2026-09-28,Monterrey
+45,2026-09-29,Ciudad de México
+33,2026-09-29,Guadalajara
+25,2026-09-29,Guadalajara
+47,2026-09-30,Ciudad de México
+30,2026-09-30,Ciudad de México
+27,2026-09-30,Monterrey
+51,2026-10-01,Ciudad de México
+54,2026-10-01,Ciudad de México
+44,2026-10-01,Guadalajara
+16,2026-10-02,Guadalajara
+39,2026-10-02,Guadalajara
+48,2026-10-02,Monterrey
+26,2026-10-03,Guadalajara
+33,2026-10-03,Monterrey
+33,2026-10-03,Monterrey
+40,2026-10-04,Ciudad de México
+39,2026-10-04,Ciudad de México
+23,2026-10-04,Monterrey
+36,2026-10-05,Ciudad de México
+53,2026-10-05,Ciudad de México
+28,2026-10-05,Guadalajara
+40,2026-10-05,Monterrey
+69,2026-10-06,Ciudad de México
+28,2026-10-06,Ciudad de México
+50,2026-10-06,Ciudad de México
+42,2026-10-06,Guadalajara
+42,2026-10-06,Guadalajara
+36,2026-10-06,Guadalajara
+42,2026-10-06,Guadalajara
+31,2026-10-06,Guadalajara
+28,2026-10-06,Monterrey
+12,2026-10-07,Ciudad de México
+36,2026-10-07,Ciudad de México
+32,2026-10-07,Ciudad de México
+38,2026-10-07,Guadalajara
+21,2026-10-07,Guadalajara
+37,2026-10-08,Ciudad de México
+20,2026-10-08,Guadalajara
+32,2026-10-08,Guadalajara
+42,2026-10-08,Monterrey
+48,2026-10-09,Ciudad de México
+40,2026-10-09,Ciudad de México
+43,2026-10-09,Ciudad de México
+32,2026-10-09,Guadalajara
+46,2026-10-09,Monterrey
+50,2026-10-10,Ciudad de México
+28,2026-10-10,Ciudad de México
+43,2026-10-10,Ciudad de México
+43,2026-10-10,Ciudad de México
+42,2026-10-10,Guadalajara
+28,2026-10-10,Guadalajara
+30,2026-10-10,Guadalajara
+46,2026-10-10,Monterrey
+22,2026-10-10,Monterrey
