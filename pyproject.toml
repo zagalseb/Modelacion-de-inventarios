@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "demanda-mx"          # cámbialo si ya existe en PyPI
+version = "0.1.0"
+description = "Demanda simulada de estrés en tres ubicaciones de México"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "Sebastien Zagal" }]
+dependencies = ["pandas>=1.5"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/demanda_mx"]
